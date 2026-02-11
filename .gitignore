@@ -9,6 +9,7 @@
 *.inc
 *.gen.*
 *.td
+program
 
 # IDE files
 .vscode/

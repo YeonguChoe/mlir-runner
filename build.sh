@@ -1,5 +1,5 @@
 INPUT_FILE="$1"
-EXECUTABLE="$2"
+EXECUTABLE="program"
 
 echo "Start building script"
 
