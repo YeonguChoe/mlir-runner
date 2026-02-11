@@ -1,1 +1,1 @@
-# mlir-script
+# MLIR file running script
