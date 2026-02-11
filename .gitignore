@@ -1,0 +1,19 @@
+# LLVM files
+*.mlir
+*.ll
+*.bc
+*.o
+*.obj
+*.s
+*.mlir.inc
+*.inc
+*.gen.*
+*.td
+
+# IDE files
+.vscode/
+.idea/
+CMakeCache.txt
+
+# OS files
+.DS_Store
